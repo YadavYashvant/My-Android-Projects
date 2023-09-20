@@ -6,5 +6,9 @@ Some of my android projects made while learning android developement
 | 2   |  ComposeFirebaseAuth  |  https://github.com/YadavYashvant/Compose-FirebaseAuth |
 | 3   | GTA-V-Characters |    https://github.com/YadavYashvant/GTA-V-Characters |
 | 4   | ChatJet |   https://github.com/YadavYashvant/ChatJet  |
-| 5   | Text-Recognition |   https://github.com/YadavYashvant/Text-Recognition  |
-|6    | Dialogsy |   https://github.com/YadavYashvant/Dialogsy  | An android Jetpack Compose library to show warning dialogs, adapted to Material3 design.(Under Developement)
+| 5   | Text-Recognition |   https://github.com/YadavYashvant/Text-Recognition  | 
+| 6   | Dialogsy |   https://github.com/YadavYashvant/Dialogsy  | An android Jetpack Compose library to show warning dialogs, adapted to Material3 design.(Under Developement)
+| 7   | ChatAI |   https://github.com/YadavYashvant/ChatAI  | Making a chatbot ai app based on openAI API.(under developement)
+| 8   | Compose-Material3 | https://github.com/YadavYashvant/Compose-Material3   |  Material3 components in Jetpack-Compose.
+| 9   | https://github.com/YadavYashvant/Capturio  | A camera app made in kotlin, It uses CameraX library (CameraController)
+| 10  | 
