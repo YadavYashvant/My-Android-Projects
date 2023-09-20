@@ -1,7 +1,7 @@
 # My-Android-Projects
 Some of my android projects made while learning android developement
 | Sr.no. |  Name  | Repo Link | Description |
-|:--------------|:-------------------:|:--------------------:|----------------:|
+|:--------------|:-------------------:|:--------------------:|:----------------:|
 | 1   | Wordsy |  https://github.com/YadavYashvant/Wordly | It uses dagger-hilt for dependency injections <br> Retrofit2 for API calls <br> Room for storing data in cache memory <br> It supports android dark theme as well.
 | 2   |  ComposeFirebaseAuth  |  https://github.com/YadavYashvant/Compose-FirebaseAuth | Firebase Authentication in Jetpack compose.
 | 3   | GTA-V-Characters |    https://github.com/YadavYashvant/GTA-V-Characters | A Jetpack compose app to show more about characters of GTA V using lazy colums<br> Some characters are yet to be added.
