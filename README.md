@@ -7,4 +7,4 @@ Some of my android projects made while learning android developement
 | 3   | GTA-V-Characters |    https://github.com/YadavYashvant/GTA-V-Characters |
 | 4   | ChatJet |   https://github.com/YadavYashvant/ChatJet  |
 | 5   | Text-Recognition |   https://github.com/YadavYashvant/Text-Recognition  |
-|6    |  |     |
+|6    | Dialogsy |   https://github.com/YadavYashvant/Dialogsy  |
