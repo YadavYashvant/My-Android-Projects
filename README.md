@@ -12,3 +12,5 @@ Some of my android projects made while learning android developement
 | 8   | Compose-Material3 | https://github.com/YadavYashvant/Compose-Material3   |  Material3 components in Jetpack-Compose.
 | 9   | Capturio  | https://github.com/YadavYashvant/Capturio  | A camera app made in kotlin, It uses CameraX library (CameraController)
 | 10  | NewsFeedr  | https://github.com/YadavYashvant/NewsFeedr |  This app uses volley library and Glide library to fetch data with news api and it is an application of recyclerview in android.
+| 11  | Notesy   | https://github.com/YadavYashvant/Notesy  | A simple note-taking app, this app uses staggered layout to show notes.
+| 12  | Poeytic  | https://github.com/YadavYashvant/Poeytic  | This android application shows the sonnets of shakespeare. It uses retrofit to acheive this functionality.
