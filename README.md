@@ -5,7 +5,7 @@ Some of my android projects made while learning android developement
 | 1   | Wordsy |  https://github.com/YadavYashvant/Wordly | It uses dagger-hilt for dependency injections, Retrofit2 for API calls, Room for storing data in cache memory, It supports android dark theme as well.
 | 2   |  ComposeFirebaseAuth  |  https://github.com/YadavYashvant/Compose-FirebaseAuth | Firebase Authentication in Jetpack compose.
 | 3   | GTA-V-Characters |    https://github.com/YadavYashvant/GTA-V-Characters | A Jetpack compose app to show more about characters of GTA V using lazy colums, Some characters are yet to be added.
-| 4   | ChatJet |   https://github.com/YadavYashvant/ChatJet  |
+| 4   | ChatJet |   https://github.com/YadavYashvant/ChatJet  | A chatting app in Jetpack Compose, with simple UI (not working yet!).
 | 5   | Text-Recognition |   https://github.com/YadavYashvant/Text-Recognition  | 
 | 6   | Dialogsy |   https://github.com/YadavYashvant/Dialogsy  | An android Jetpack Compose library to show warning dialogs, adapted to Material3 design.(Under Developement)
 | 7   | ChatAI |   https://github.com/YadavYashvant/ChatAI  | Making a chatbot ai app based on openAI API.(under developement)
